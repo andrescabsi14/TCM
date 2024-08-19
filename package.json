@@ -1,0 +1,12 @@
+{
+  "name": "tcm",
+  "version": "1.0.0",
+  "description": "Megaverse generator",
+  "main": "index.ts",
+  "repository": "git@github.com:andrescabsi14/TCM.git",
+  "author": "Andres Cabrera <andrewcabs17@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.4"
+  }
+}
