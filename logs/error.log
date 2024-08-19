@@ -1,0 +1,178 @@
+2024-08-19T15:20:21.870Z [ERROR]: Application failed: __dirname is not defined
+2024-08-19T15:47:00.840Z [ERROR]: Failed to set entity at (7, 1): Cannot set properties of undefined (setting '7')
+2024-08-19T15:47:01.250Z [ERROR]: Failed to set entity at (2, 2): Cannot set properties of undefined (setting '2')
+2024-08-19T15:47:01.606Z [ERROR]: Failed to set entity at (3, 2): Cannot set properties of undefined (setting '3')
+2024-08-19T15:47:01.968Z [ERROR]: Failed to set entity at (13, 2): Cannot set properties of undefined (setting '13')
+2024-08-19T15:47:02.328Z [ERROR]: Failed to set entity at (23, 2): Cannot set properties of undefined (setting '23')
+2024-08-19T15:47:02.637Z [ERROR]: Failed to set entity at (24, 2): Cannot set properties of undefined (setting '24')
+2024-08-19T15:47:02.985Z [ERROR]: Failed to set entity at (2, 3): Cannot set properties of undefined (setting '2')
+2024-08-19T15:47:03.353Z [ERROR]: Failed to set entity at (4, 3): Cannot set properties of undefined (setting '4')
+2024-08-19T15:47:03.619Z [ERROR]: Failed to set entity at (5, 3): Cannot set properties of undefined (setting '5')
+2024-08-19T15:47:03.957Z [ERROR]: Failed to set entity at (20, 3): Cannot set properties of undefined (setting '20')
+2024-08-19T15:47:04.209Z [ERROR]: Failed to set entity at (21, 3): Request failed with status code 429
+2024-08-19T15:47:04.532Z [ERROR]: Failed to set entity at (22, 3): Request failed with status code 429
+2024-08-19T15:47:04.871Z [ERROR]: Failed to set entity at (24, 3): Request failed with status code 429
+2024-08-19T15:47:05.164Z [ERROR]: Failed to set entity at (27, 3): Request failed with status code 429
+2024-08-19T15:47:05.547Z [ERROR]: Failed to set entity at (3, 4): Request failed with status code 429
+2024-08-19T15:47:05.922Z [ERROR]: Failed to set entity at (5, 4): Request failed with status code 429
+2024-08-19T15:47:06.294Z [ERROR]: Failed to set entity at (6, 4): Request failed with status code 429
+2024-08-19T15:47:06.593Z [ERROR]: Failed to set entity at (7, 4): Request failed with status code 429
+2024-08-19T15:47:06.871Z [ERROR]: Failed to set entity at (8, 4): Request failed with status code 429
+2024-08-19T15:47:07.094Z [ERROR]: Failed to set entity at (16, 4): Request failed with status code 429
+2024-08-19T15:47:07.433Z [ERROR]: Failed to set entity at (19, 4): Request failed with status code 429
+2024-08-19T15:47:07.696Z [ERROR]: Failed to set entity at (20, 4): Request failed with status code 429
+2024-08-19T15:47:07.971Z [ERROR]: Failed to set entity at (23, 4): Request failed with status code 429
+2024-08-19T15:47:08.223Z [ERROR]: Failed to set entity at (29, 4): Request failed with status code 429
+2024-08-19T15:47:08.497Z [ERROR]: Failed to set entity at (3, 5): Request failed with status code 429
+2024-08-19T15:47:08.867Z [ERROR]: Failed to set entity at (6, 5): Request failed with status code 429
+2024-08-19T15:47:09.123Z [ERROR]: Failed to set entity at (8, 5): Request failed with status code 429
+2024-08-19T15:47:09.393Z [ERROR]: Failed to set entity at (9, 5): Request failed with status code 429
+2024-08-19T15:47:09.646Z [ERROR]: Failed to set entity at (12, 5): Request failed with status code 429
+2024-08-19T15:47:09.909Z [ERROR]: Failed to set entity at (17, 5): Request failed with status code 429
+2024-08-19T15:47:10.217Z [ERROR]: Failed to set entity at (18, 5): Cannot set properties of undefined (setting '18')
+2024-08-19T15:47:10.475Z [ERROR]: Failed to set entity at (19, 5): Cannot set properties of undefined (setting '19')
+2024-08-19T15:47:10.783Z [ERROR]: Failed to set entity at (23, 5): Cannot set properties of undefined (setting '23')
+2024-08-19T15:47:11.084Z [ERROR]: Failed to set entity at (4, 6): Cannot set properties of undefined (setting '4')
+2024-08-19T15:47:11.397Z [ERROR]: Failed to set entity at (10, 6): Cannot set properties of undefined (setting '10')
+2024-08-19T15:47:11.731Z [ERROR]: Failed to set entity at (16, 6): Cannot set properties of undefined (setting '16')
+2024-08-19T15:47:11.995Z [ERROR]: Failed to set entity at (22, 6): Cannot set properties of undefined (setting '22')
+2024-08-19T15:47:12.306Z [ERROR]: Failed to set entity at (4, 7): Cannot set properties of undefined (setting '4')
+2024-08-19T15:47:12.631Z [ERROR]: Failed to set entity at (10, 7): Cannot set properties of undefined (setting '10')
+2024-08-19T15:47:12.920Z [ERROR]: Failed to set entity at (15, 7): Cannot set properties of undefined (setting '15')
+2024-08-19T15:47:13.155Z [ERROR]: Failed to set entity at (16, 7): Request failed with status code 429
+2024-08-19T15:47:13.390Z [ERROR]: Failed to set entity at (22, 7): Request failed with status code 429
+2024-08-19T15:47:13.718Z [ERROR]: Failed to set entity at (23, 7): Request failed with status code 429
+2024-08-19T15:47:13.982Z [ERROR]: Failed to set entity at (4, 8): Request failed with status code 429
+2024-08-19T15:47:14.227Z [ERROR]: Failed to set entity at (5, 8): Request failed with status code 429
+2024-08-19T15:47:14.476Z [ERROR]: Failed to set entity at (10, 8): Request failed with status code 429
+2024-08-19T15:47:14.726Z [ERROR]: Failed to set entity at (11, 8): Request failed with status code 429
+2024-08-19T15:47:15.056Z [ERROR]: Failed to set entity at (15, 8): Request failed with status code 429
+2024-08-19T15:47:15.307Z [ERROR]: Failed to set entity at (21, 8): Request failed with status code 429
+2024-08-19T15:47:15.655Z [ERROR]: Failed to set entity at (5, 9): Request failed with status code 429
+2024-08-19T15:47:15.918Z [ERROR]: Failed to set entity at (6, 9): Request failed with status code 429
+2024-08-19T15:47:16.165Z [ERROR]: Failed to set entity at (11, 9): Request failed with status code 429
+2024-08-19T15:47:16.493Z [ERROR]: Failed to set entity at (12, 9): Request failed with status code 429
+2024-08-19T15:47:16.740Z [ERROR]: Failed to set entity at (15, 9): Request failed with status code 429
+2024-08-19T15:47:16.972Z [ERROR]: Failed to set entity at (21, 9): Request failed with status code 429
+2024-08-19T15:47:17.225Z [ERROR]: Failed to set entity at (27, 9): Request failed with status code 429
+2024-08-19T15:47:17.452Z [ERROR]: Failed to set entity at (2, 10): Request failed with status code 429
+2024-08-19T15:47:17.681Z [ERROR]: Failed to set entity at (6, 10): Request failed with status code 429
+2024-08-19T15:47:17.936Z [ERROR]: Failed to set entity at (7, 10): Request failed with status code 429
+2024-08-19T15:47:18.186Z [ERROR]: Failed to set entity at (12, 10): Request failed with status code 429
+2024-08-19T15:47:18.494Z [ERROR]: Failed to set entity at (14, 10): Request failed with status code 429
+2024-08-19T15:47:18.729Z [ERROR]: Failed to set entity at (18, 10): Request failed with status code 429
+2024-08-19T15:47:18.987Z [ERROR]: Failed to set entity at (19, 10): Request failed with status code 429
+2024-08-19T15:47:19.231Z [ERROR]: Failed to set entity at (20, 10): Request failed with status code 429
+2024-08-19T15:47:19.463Z [ERROR]: Failed to set entity at (7, 11): Request failed with status code 429
+2024-08-19T15:47:19.705Z [ERROR]: Failed to set entity at (8, 11): Request failed with status code 429
+2024-08-19T15:47:19.970Z [ERROR]: Failed to set entity at (9, 11): Request failed with status code 429
+2024-08-19T15:47:20.219Z [ERROR]: Failed to set entity at (12, 11): Cannot set properties of undefined (setting '12')
+2024-08-19T15:47:20.466Z [ERROR]: Failed to set entity at (14, 11): Cannot set properties of undefined (setting '14')
+2024-08-19T15:47:20.764Z [ERROR]: Failed to set entity at (17, 11): Cannot set properties of undefined (setting '17')
+2024-08-19T15:47:21.018Z [ERROR]: Failed to set entity at (18, 11): Cannot set properties of undefined (setting '18')
+2024-08-19T15:47:21.282Z [ERROR]: Failed to set entity at (10, 12): Cannot set properties of undefined (setting '10')
+2024-08-19T15:47:21.543Z [ERROR]: Failed to set entity at (11, 12): Cannot set properties of undefined (setting '11')
+2024-08-19T15:47:21.818Z [ERROR]: Failed to set entity at (13, 12): Cannot set properties of undefined (setting '13')
+2024-08-19T15:47:22.080Z [ERROR]: Failed to set entity at (15, 12): Cannot set properties of undefined (setting '15')
+2024-08-19T15:47:22.346Z [ERROR]: Failed to set entity at (16, 12): Cannot set properties of undefined (setting '16')
+2024-08-19T15:47:22.596Z [ERROR]: Failed to set entity at (25, 12): Cannot set properties of undefined (setting '25')
+2024-08-19T15:47:22.972Z [ERROR]: Failed to set entity at (28, 12): Request failed with status code 429
+2024-08-19T15:47:23.253Z [ERROR]: Failed to set entity at (4, 13): Request failed with status code 429
+2024-08-19T15:47:23.493Z [ERROR]: Failed to set entity at (12, 13): Request failed with status code 429
+2024-08-19T15:47:23.755Z [ERROR]: Failed to set entity at (13, 13): Request failed with status code 429
+2024-08-19T15:47:24.048Z [ERROR]: Failed to set entity at (14, 13): Request failed with status code 429
+2024-08-19T15:47:24.287Z [ERROR]: Failed to set entity at (9, 14): Request failed with status code 429
+2024-08-19T15:47:24.533Z [ERROR]: Failed to set entity at (10, 14): Request failed with status code 429
+2024-08-19T15:47:24.781Z [ERROR]: Failed to set entity at (11, 14): Request failed with status code 429
+2024-08-19T15:47:25.061Z [ERROR]: Failed to set entity at (13, 14): Request failed with status code 429
+2024-08-19T15:47:25.341Z [ERROR]: Failed to set entity at (15, 14): Request failed with status code 429
+2024-08-19T15:47:25.591Z [ERROR]: Failed to set entity at (16, 14): Request failed with status code 429
+2024-08-19T15:47:25.846Z [ERROR]: Failed to set entity at (17, 14): Request failed with status code 429
+2024-08-19T15:47:26.098Z [ERROR]: Failed to set entity at (1, 15): Request failed with status code 429
+2024-08-19T15:47:26.357Z [ERROR]: Failed to set entity at (8, 15): Request failed with status code 429
+2024-08-19T15:47:26.589Z [ERROR]: Failed to set entity at (9, 15): Request failed with status code 429
+2024-08-19T15:47:26.865Z [ERROR]: Failed to set entity at (12, 15): Request failed with status code 429
+2024-08-19T15:47:27.124Z [ERROR]: Failed to set entity at (14, 15): Request failed with status code 429
+2024-08-19T15:47:27.363Z [ERROR]: Failed to set entity at (17, 15): Request failed with status code 429
+2024-08-19T15:47:27.610Z [ERROR]: Failed to set entity at (18, 15): Request failed with status code 429
+2024-08-19T15:47:27.864Z [ERROR]: Failed to set entity at (19, 15): Request failed with status code 429
+2024-08-19T15:47:28.199Z [ERROR]: Failed to set entity at (26, 15): Request failed with status code 429
+2024-08-19T15:47:28.454Z [ERROR]: Failed to set entity at (3, 16): Request failed with status code 429
+2024-08-19T15:47:28.721Z [ERROR]: Failed to set entity at (6, 16): Request failed with status code 429
+2024-08-19T15:47:29.011Z [ERROR]: Failed to set entity at (7, 16): Request failed with status code 429
+2024-08-19T15:47:29.263Z [ERROR]: Failed to set entity at (8, 16): Request failed with status code 429
+2024-08-19T15:47:29.486Z [ERROR]: Failed to set entity at (12, 16): Request failed with status code 429
+2024-08-19T15:47:29.716Z [ERROR]: Failed to set entity at (14, 16): Request failed with status code 429
+2024-08-19T15:47:29.950Z [ERROR]: Failed to set entity at (19, 16): Request failed with status code 429
+2024-08-19T15:47:30.232Z [ERROR]: Failed to set entity at (20, 16): Cannot set properties of undefined (setting '20')
+2024-08-19T15:47:30.595Z [ERROR]: Failed to set entity at (21, 16): Cannot set properties of undefined (setting '21')
+2024-08-19T15:47:30.871Z [ERROR]: Failed to set entity at (5, 17): Cannot set properties of undefined (setting '5')
+2024-08-19T15:47:31.172Z [ERROR]: Failed to set entity at (11, 17): Cannot set properties of undefined (setting '11')
+2024-08-19T15:47:31.420Z [ERROR]: Failed to set entity at (14, 17): Cannot set properties of undefined (setting '14')
+2024-08-19T15:47:31.695Z [ERROR]: Failed to set entity at (15, 17): Cannot set properties of undefined (setting '15')
+2024-08-19T15:47:31.941Z [ERROR]: Failed to set entity at (21, 17): Cannot set properties of undefined (setting '21')
+2024-08-19T15:47:32.220Z [ERROR]: Failed to set entity at (24, 17): Cannot set properties of undefined (setting '24')
+2024-08-19T15:47:32.479Z [ERROR]: Failed to set entity at (5, 18): Cannot set properties of undefined (setting '5')
+2024-08-19T15:47:32.733Z [ERROR]: Failed to set entity at (6, 18): Cannot set properties of undefined (setting '6')
+2024-08-19T15:47:32.972Z [ERROR]: Failed to set entity at (11, 18): Request failed with status code 429
+2024-08-19T15:47:33.210Z [ERROR]: Failed to set entity at (15, 18): Request failed with status code 429
+2024-08-19T15:47:33.451Z [ERROR]: Failed to set entity at (21, 18): Request failed with status code 429
+2024-08-19T15:47:33.702Z [ERROR]: Failed to set entity at (22, 18): Request failed with status code 429
+2024-08-19T15:47:33.970Z [ERROR]: Failed to set entity at (4, 19): Request failed with status code 429
+2024-08-19T15:47:34.287Z [ERROR]: Failed to set entity at (10, 19): Request failed with status code 429
+2024-08-19T15:47:34.548Z [ERROR]: Failed to set entity at (11, 19): Request failed with status code 429
+2024-08-19T15:47:34.780Z [ERROR]: Failed to set entity at (16, 19): Request failed with status code 429
+2024-08-19T15:47:35.089Z [ERROR]: Failed to set entity at (22, 19): Request failed with status code 429
+2024-08-19T15:47:35.386Z [ERROR]: Failed to set entity at (0, 20): Request failed with status code 429
+2024-08-19T15:47:35.630Z [ERROR]: Failed to set entity at (4, 20): Request failed with status code 429
+2024-08-19T15:47:35.978Z [ERROR]: Failed to set entity at (10, 20): Request failed with status code 429
+2024-08-19T15:47:36.308Z [ERROR]: Failed to set entity at (16, 20): Request failed with status code 429
+2024-08-19T15:47:36.721Z [ERROR]: Failed to set entity at (22, 20): Request failed with status code 429
+2024-08-19T15:47:36.965Z [ERROR]: Failed to set entity at (3, 21): Request failed with status code 429
+2024-08-19T15:47:37.302Z [ERROR]: Failed to set entity at (8, 21): Request failed with status code 429
+2024-08-19T15:47:37.544Z [ERROR]: Failed to set entity at (9, 21): Request failed with status code 429
+2024-08-19T15:47:37.789Z [ERROR]: Failed to set entity at (10, 21): Request failed with status code 429
+2024-08-19T15:47:38.041Z [ERROR]: Failed to set entity at (16, 21): Request failed with status code 429
+2024-08-19T15:47:38.352Z [ERROR]: Failed to set entity at (17, 21): Request failed with status code 429
+2024-08-19T15:47:38.623Z [ERROR]: Failed to set entity at (18, 21): Request failed with status code 429
+2024-08-19T15:47:38.863Z [ERROR]: Failed to set entity at (19, 21): Request failed with status code 429
+2024-08-19T15:47:39.100Z [ERROR]: Failed to set entity at (23, 21): Request failed with status code 429
+2024-08-19T15:47:39.329Z [ERROR]: Failed to set entity at (3, 22): Request failed with status code 429
+2024-08-19T15:47:39.559Z [ERROR]: Failed to set entity at (5, 22): Request failed with status code 429
+2024-08-19T15:47:39.782Z [ERROR]: Failed to set entity at (6, 22): Request failed with status code 429
+2024-08-19T15:47:40.046Z [ERROR]: Failed to set entity at (7, 22): Request failed with status code 429
+2024-08-19T15:47:40.337Z [ERROR]: Failed to set entity at (8, 22): Cannot set properties of undefined (setting '8')
+2024-08-19T15:47:40.596Z [ERROR]: Failed to set entity at (14, 22): Cannot set properties of undefined (setting '14')
+2024-08-19T15:47:40.909Z [ERROR]: Failed to set entity at (19, 22): Cannot set properties of undefined (setting '19')
+2024-08-19T15:47:41.159Z [ERROR]: Failed to set entity at (20, 22): Cannot set properties of undefined (setting '20')
+2024-08-19T15:47:41.415Z [ERROR]: Failed to set entity at (23, 22): Cannot set properties of undefined (setting '23')
+2024-08-19T15:47:41.666Z [ERROR]: Failed to set entity at (24, 22): Cannot set properties of undefined (setting '24')
+2024-08-19T15:47:41.944Z [ERROR]: Failed to set entity at (27, 22): Cannot set properties of undefined (setting '27')
+2024-08-19T15:47:42.219Z [ERROR]: Failed to set entity at (2, 23): Cannot set properties of undefined (setting '2')
+2024-08-19T15:47:42.478Z [ERROR]: Failed to set entity at (4, 23): Cannot set properties of undefined (setting '4')
+2024-08-19T15:47:42.742Z [ERROR]: Failed to set entity at (5, 23): Cannot set properties of undefined (setting '5')
+2024-08-19T15:47:43.003Z [ERROR]: Failed to set entity at (21, 23): Request failed with status code 429
+2024-08-19T15:47:43.251Z [ERROR]: Failed to set entity at (22, 23): Request failed with status code 429
+2024-08-19T15:47:43.532Z [ERROR]: Failed to set entity at (24, 23): Request failed with status code 429
+2024-08-19T15:47:43.765Z [ERROR]: Failed to set entity at (2, 24): Request failed with status code 429
+2024-08-19T15:47:44.012Z [ERROR]: Failed to set entity at (3, 24): Request failed with status code 429
+2024-08-19T15:47:44.636Z [ERROR]: Failed to set entity at (12, 24): Request failed with status code 429
+2024-08-19T15:47:44.911Z [ERROR]: Failed to set entity at (23, 24): Request failed with status code 429
+2024-08-19T15:47:45.274Z [ERROR]: Failed to set entity at (24, 24): Request failed with status code 429
+2024-08-19T15:47:45.530Z [ERROR]: Failed to set entity at (3, 26): Request failed with status code 429
+2024-08-19T15:47:45.792Z [ERROR]: Failed to set entity at (15, 26): Request failed with status code 429
+2024-08-19T15:47:46.054Z [ERROR]: Failed to set entity at (26, 26): Request failed with status code 429
+2024-08-19T15:47:46.361Z [ERROR]: Failed to set entity at (5, 27): Request failed with status code 429
+2024-08-19T15:47:46.589Z [ERROR]: Failed to set entity at (10, 28): Request failed with status code 429
+2024-08-19T15:47:46.835Z [ERROR]: Failed to set entity at (20, 28): Request failed with status code 429
+2024-08-19T16:01:03.666Z [ERROR]: Failed to set entity at (7, 1): Cannot set properties of undefined (setting '7')
+2024-08-19T16:01:04.145Z [ERROR]: Failed to set entity at (2, 2): Cannot set properties of undefined (setting '2')
+2024-08-19T16:01:04.541Z [ERROR]: Failed to set entity at (3, 2): Cannot set properties of undefined (setting '3')
+2024-08-19T16:01:04.964Z [ERROR]: Failed to set entity at (13, 2): Cannot set properties of undefined (setting '13')
+2024-08-19T16:01:05.271Z [ERROR]: Failed to set entity at (23, 2): Cannot set properties of undefined (setting '23')
+2024-08-19T16:01:05.625Z [ERROR]: Failed to set entity at (24, 2): Cannot set properties of undefined (setting '24')
+2024-08-19T16:01:06.003Z [ERROR]: Failed to set entity at (2, 3): Cannot set properties of undefined (setting '2')
+2024-08-19T16:01:06.358Z [ERROR]: Failed to set entity at (4, 3): Cannot set properties of undefined (setting '4')
+2024-08-19T16:01:06.746Z [ERROR]: Failed to set entity at (5, 3): Cannot set properties of undefined (setting '5')
+2024-08-19T16:01:07.104Z [ERROR]: Failed to set entity at (20, 3): Cannot set properties of undefined (setting '20')
+2024-08-19T16:01:07.381Z [ERROR]: Failed to set entity at (21, 3): Request failed with status code 429
